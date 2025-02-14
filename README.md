@@ -8,6 +8,10 @@ Frontend engineer with over 5 years of experience building scalable, user-focuse
 - AI-related projects,
 - Mentorship
 
+ **I am currently working on**:
+
+- PromptFlix: An AI-powered Movie discovery app.
+
 ## Skills:
 
 ![Javascript](https://img.shields.io/badge/javascript-%2312100E.svg?&style=for-the-badge&logoColor=white&color=gold)&nbsp;
