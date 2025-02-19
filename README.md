@@ -10,7 +10,7 @@ Frontend engineer with over 5 years of experience building scalable, user-focuse
 
  **I am currently working on**:
 
-- PromptFlix: An AI-powered Movie discovery app.
+- PromptFlix: An AI-powered app for movie discovery and streaming.
 
 ## Skills:
 
