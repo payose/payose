@@ -30,9 +30,6 @@ Frontend engineer with over 5 years of experience building scalable, user-focuse
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@piusiniobong)
 </p>
 
-[<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/payose/payose/blob/output/github-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/payose/payose/blob/output/github-snake.svg)" />
-  <img alt="github-snake" src="github-snake.svg" />
- </picture>]: #
+[<picture><source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://github.com/payose/payose/blob/output/github-snake-dark.svg)" /><source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/payose/payose/blob/output/github-snake.svg)" /><img alt="github-snake" src="github-snake.svg" /></picture>]: #
+
 
