@@ -8,9 +8,9 @@ Frontend engineer with over 5 years of experience building scalable, user-focuse
 - AI-related projects,
 - Mentorship
 
- **I am currently working on**:
+ **I am currently building**:
 
-- PromptFlix: An AI-powered app for movie discovery and streaming.
+- [PromptFlix](https://promptflix-frontend.onrender.com/): An AI-powered app for movie discovery and recommendation.
 
 ## Skills:
 
